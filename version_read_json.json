@@ -1,0 +1,7 @@
+{
+  "java":{
+     "version": "java-1.8.0" },
+  "spark":{
+     "url": "https://downloads.apache.org/spark/spark-2.4.8/spark-2.4.8-bin-hadoop2.7.tgz",
+     "tgz_filename": "spark-2.4.8-bin-hadoop2.7"}
+}
